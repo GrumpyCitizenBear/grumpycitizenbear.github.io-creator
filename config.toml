@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-Hans'
+title = '暴力熊的进阶笔记'
+theme = "ananke"
