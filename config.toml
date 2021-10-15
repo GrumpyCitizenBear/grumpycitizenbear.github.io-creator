@@ -13,12 +13,12 @@ name="博文"
 url="/post"
 weight="2"
 [[menu.main]]
-name="新闻"
-url="/news"
+name="GitHub"
+url="https://github.com/GrumpyCitizenBear"
 weight="3"
 [[menu.main]]
 name="关于"
-url="/about"
+url="http://grumpycitizenbear.top/posts/my-first-post/"
 weight="4"
 
 # 页脚导航菜单
