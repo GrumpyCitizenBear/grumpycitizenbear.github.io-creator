@@ -3,4 +3,39 @@ languageCode = 'zh-Hans'
 title = '暴力熊的进阶笔记'
 theme = "ananke"
 
+# 主导航菜单
+[[menu.main]]
+name="首页"
+url="http://grumpycitizenbear.top"
+weight="1"
+[[menu.main]]
+name="博文"
+url="/post"
+weight="2"
+[[menu.main]]
+name="新闻"
+url="/news"
+weight="3"
+[[menu.main]]
+name="关于"
+url="/about"
+weight="4"
+
+# 页脚导航菜单
+[[menu.foot]]
+name="网站首页"
+url="/"
+weight="4"
+[[menu.foot]]
+name="博文集合"
+url="/post"
+weight="3"
+[[menu.foot]]
+name="新闻列表"
+url="/news"
+weight="2"
+[[menu.foot]]
+name="关于我们"
+url="/about"
+weight="1"
 
