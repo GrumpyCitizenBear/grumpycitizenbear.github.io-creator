@@ -1,4 +1,6 @@
 baseURL = 'http://grumpycitizenbear.top/'
 languageCode = 'zh-Hans'
 title = '暴力熊的进阶笔记'
-theme = "toha"
+theme = "ananke"
+
+
