@@ -2,6 +2,7 @@
 title: "有关getter和setter的用法"
 date: 2021-10-14T16:42:27+08:00
 draft: false
+summary: "介绍了JAVA中getter和setter的定义，用法以及比较了二者的区别"
 ---
 
 # 有关getter和setter的用法和理解

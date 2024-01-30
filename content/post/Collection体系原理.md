@@ -1,7 +1,8 @@
 ---
 title: "Collection体系原理"
 date: 2021-10-21T21:29:50+08:00
-draft: true
+draft: false
+summary: "Java的Collection框架是一组用于存储和操作对象的接口和类。它提供了一种方便的方式来管理和操作数据集合。本文将详细介绍Java中的Collection框架，包括List、Set、Map等常见接口和实现类，并提供一些示例代码"
 ---
 
 # Collection 体系原理
